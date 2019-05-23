@@ -1,2 +1,4 @@
 h1{color: blue}
 nav{color: green}
+nav,ul,li,a{display: flex;flex-direction: row;padding: 2%;text-decoration-line: none;background-color: green;}
+a{text-align: right;}
